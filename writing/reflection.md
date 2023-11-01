@@ -8,6 +8,6 @@
 
 `TODO`
 
-## What lessons did your group take away from this exercise?
+## What lessons did you take away from this exercise?
 
 `TODO`
